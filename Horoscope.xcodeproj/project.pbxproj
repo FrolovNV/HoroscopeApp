@@ -7,12 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0507CF8D25F8D57600481DE7 /* LineToRegtangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0507CF8C25F8D57600481DE7 /* LineToRegtangle.swift */; };
+		05158B8025DD19F10063694A /* FindMonth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05158B7F25DD19F10063694A /* FindMonth.swift */; };
+		05158BB925DD3D890063694A /* Jost-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BA725DD3D880063694A /* Jost-ExtraBoldItalic.ttf */; };
+		05158BBA25DD3D890063694A /* Jost-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BA825DD3D880063694A /* Jost-MediumItalic.ttf */; };
+		05158BBB25DD3D890063694A /* Jost-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BA925DD3D880063694A /* Jost-Bold.ttf */; };
+		05158BBC25DD3D890063694A /* Jost-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BAA25DD3D880063694A /* Jost-Black.ttf */; };
+		05158BBD25DD3D890063694A /* Jost-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BAB25DD3D880063694A /* Jost-Light.ttf */; };
+		05158BBE25DD3D890063694A /* Jost-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BAC25DD3D880063694A /* Jost-BlackItalic.ttf */; };
+		05158BBF25DD3D890063694A /* Jost-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BAD25DD3D880063694A /* Jost-Regular.ttf */; };
+		05158BC025DD3D890063694A /* Jost-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BAE25DD3D880063694A /* Jost-SemiBoldItalic.ttf */; };
+		05158BC125DD3D890063694A /* Jost-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BAF25DD3D880063694A /* Jost-LightItalic.ttf */; };
+		05158BC225DD3D890063694A /* Jost-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB025DD3D880063694A /* Jost-BoldItalic.ttf */; };
+		05158BC325DD3D890063694A /* Jost-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB125DD3D880063694A /* Jost-ExtraLightItalic.ttf */; };
+		05158BC425DD3D890063694A /* Jost-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB225DD3D880063694A /* Jost-Italic.ttf */; };
+		05158BC525DD3D890063694A /* Jost-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB325DD3D880063694A /* Jost-Thin.ttf */; };
+		05158BC625DD3D890063694A /* Jost-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB425DD3D890063694A /* Jost-ExtraLight.ttf */; };
+		05158BC725DD3D890063694A /* Jost-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB525DD3D890063694A /* Jost-SemiBold.ttf */; };
+		05158BC825DD3D890063694A /* Jost-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB625DD3D890063694A /* Jost-ExtraBold.ttf */; };
+		05158BC925DD3D890063694A /* Jost-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB725DD3D890063694A /* Jost-ThinItalic.ttf */; };
+		05158BCA25DD3D890063694A /* Jost-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05158BB825DD3D890063694A /* Jost-Medium.ttf */; };
+		05158BCF25DD412D0063694A /* FindSign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05158BCE25DD412D0063694A /* FindSign.swift */; };
+		05240DD825EFD8CD00AEAE74 /* ScrollableHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05240DD725EFD8CD00AEAE74 /* ScrollableHStack.swift */; };
+		054AAF3D25E7CCFA00B1883D /* pyth_square.json in Resources */ = {isa = PBXBuildFile; fileRef = 054AAF3C25E7CCFA00B1883D /* pyth_square.json */; };
+		054AAF4225E7CDBE00B1883D /* SquareModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054AAF4125E7CDBE00B1883D /* SquareModels.swift */; };
+		054E22EA25DE919000713507 /* DateHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 054E22E925DE919000713507 /* DateHeader.swift */; };
+		0558A47D25F79BF1000345A9 /* charachter.json in Resources */ = {isa = PBXBuildFile; fileRef = 0558A47C25F79BF1000345A9 /* charachter.json */; };
+		0558A48225F79C10000345A9 /* HoroscopeUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0558A48125F79C10000345A9 /* HoroscopeUser.swift */; };
+		0564668825EBCD0F00361A3D /* HeaderComp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564668725EBCD0F00361A3D /* HeaderComp.swift */; };
+		0564668D25EBCD1B00361A3D /* CircleComp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564668C25EBCD1B00361A3D /* CircleComp.swift */; };
+		0564669325EBD2D000361A3D /* RectangleWithImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0564669225EBD2D000361A3D /* RectangleWithImage.swift */; };
+		056DCB0325E450C4008F1397 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056DCB0225E450C4008F1397 /* Main.swift */; };
+		056DCB0B25E45110008F1397 /* Auth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056DCB0A25E45110008F1397 /* Auth.swift */; };
+		0578F2EE25DF95F200125C1E /* ProfileVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0578F2ED25DF95F200125C1E /* ProfileVIew.swift */; };
+		0578F2F925DFA95100125C1E /* Details.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0578F2F825DFA95100125C1E /* Details.swift */; };
+		0578F30425E1029300125C1E /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0578F30325E1029300125C1E /* UserModel.swift */; };
+		0597582A25E79E8D008CFA03 /* CompView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0597582925E79E8D008CFA03 /* CompView.swift */; };
+		05A0612B25DE592900336407 /* SquareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A0612A25DE592900336407 /* SquareView.swift */; };
+		05A0613C25DE5A4400336407 /* CalculateSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A0613B25DE5A4400336407 /* CalculateSquare.swift */; };
+		05A0614125DE5B4900336407 /* RectangleOfSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A0614025DE5B4900336407 /* RectangleOfSquare.swift */; };
+		05A6665725EE7D1F00162141 /* CompChooseSignView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05A6665625EE7D1F00162141 /* CompChooseSignView.swift */; };
+		05B4B7D725F27DD000D259BF /* LinkToSiteWithText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B4B7D625F27DD000D259BF /* LinkToSiteWithText.swift */; };
 		05C1AA7A25DC536300F8DDAE /* HoroscopeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1AA7925DC536300F8DDAE /* HoroscopeApp.swift */; };
 		05C1AA7C25DC536300F8DDAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1AA7B25DC536300F8DDAE /* ContentView.swift */; };
 		05C1AA7E25DC536400F8DDAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C1AA7D25DC536400F8DDAE /* Assets.xcassets */; };
 		05C1AA8125DC536400F8DDAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C1AA8025DC536400F8DDAE /* Preview Assets.xcassets */; };
 		05C1AA8C25DC536400F8DDAE /* HoroscopeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1AA8B25DC536400F8DDAE /* HoroscopeTests.swift */; };
 		05C1AA9725DC536400F8DDAE /* HoroscopeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1AA9625DC536400F8DDAE /* HoroscopeUITests.swift */; };
+		05C1AAAB25DC53AD00F8DDAE /* HoroscopeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1AAAA25DC53AD00F8DDAE /* HoroscopeView.swift */; };
+		05C1AAB325DC580000F8DDAE /* HeaderHoroscope.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1AAB225DC580000F8DDAE /* HeaderHoroscope.swift */; };
+		05CEA9E925F94AB100F90DA3 /* Comp.json in Resources */ = {isa = PBXBuildFile; fileRef = 05CEA9E825F94AB100F90DA3 /* Comp.json */; };
+		05FC9DC825FA74C70033E6E0 /* character.json in Resources */ = {isa = PBXBuildFile; fileRef = 05FC9DC725FA74C70033E6E0 /* character.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +78,47 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0507CF8C25F8D57600481DE7 /* LineToRegtangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineToRegtangle.swift; sourceTree = "<group>"; };
+		05158B7F25DD19F10063694A /* FindMonth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMonth.swift; sourceTree = "<group>"; };
+		05158BA725DD3D880063694A /* Jost-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		05158BA825DD3D880063694A /* Jost-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-MediumItalic.ttf"; sourceTree = "<group>"; };
+		05158BA925DD3D880063694A /* Jost-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Bold.ttf"; sourceTree = "<group>"; };
+		05158BAA25DD3D880063694A /* Jost-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Black.ttf"; sourceTree = "<group>"; };
+		05158BAB25DD3D880063694A /* Jost-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Light.ttf"; sourceTree = "<group>"; };
+		05158BAC25DD3D880063694A /* Jost-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-BlackItalic.ttf"; sourceTree = "<group>"; };
+		05158BAD25DD3D880063694A /* Jost-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Regular.ttf"; sourceTree = "<group>"; };
+		05158BAE25DD3D880063694A /* Jost-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		05158BAF25DD3D880063694A /* Jost-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-LightItalic.ttf"; sourceTree = "<group>"; };
+		05158BB025DD3D880063694A /* Jost-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-BoldItalic.ttf"; sourceTree = "<group>"; };
+		05158BB125DD3D880063694A /* Jost-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		05158BB225DD3D880063694A /* Jost-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Italic.ttf"; sourceTree = "<group>"; };
+		05158BB325DD3D880063694A /* Jost-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Thin.ttf"; sourceTree = "<group>"; };
+		05158BB425DD3D890063694A /* Jost-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-ExtraLight.ttf"; sourceTree = "<group>"; };
+		05158BB525DD3D890063694A /* Jost-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-SemiBold.ttf"; sourceTree = "<group>"; };
+		05158BB625DD3D890063694A /* Jost-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-ExtraBold.ttf"; sourceTree = "<group>"; };
+		05158BB725DD3D890063694A /* Jost-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-ThinItalic.ttf"; sourceTree = "<group>"; };
+		05158BB825DD3D890063694A /* Jost-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Jost-Medium.ttf"; sourceTree = "<group>"; };
+		05158BCE25DD412D0063694A /* FindSign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindSign.swift; sourceTree = "<group>"; };
+		05240DD725EFD8CD00AEAE74 /* ScrollableHStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollableHStack.swift; sourceTree = "<group>"; };
+		054AAF3C25E7CCFA00B1883D /* pyth_square.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pyth_square.json; sourceTree = "<group>"; };
+		054AAF4125E7CDBE00B1883D /* SquareModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareModels.swift; sourceTree = "<group>"; };
+		054E22E925DE919000713507 /* DateHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateHeader.swift; sourceTree = "<group>"; };
+		0558A47C25F79BF1000345A9 /* charachter.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = charachter.json; sourceTree = "<group>"; };
+		0558A48125F79C10000345A9 /* HoroscopeUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoroscopeUser.swift; sourceTree = "<group>"; };
+		0564668725EBCD0F00361A3D /* HeaderComp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderComp.swift; sourceTree = "<group>"; };
+		0564668C25EBCD1B00361A3D /* CircleComp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleComp.swift; sourceTree = "<group>"; };
+		0564669225EBD2D000361A3D /* RectangleWithImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleWithImage.swift; sourceTree = "<group>"; };
+		056DCB0225E450C4008F1397 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		056DCB0A25E45110008F1397 /* Auth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auth.swift; sourceTree = "<group>"; };
+		0578F2ED25DF95F200125C1E /* ProfileVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVIew.swift; sourceTree = "<group>"; };
+		0578F2F825DFA95100125C1E /* Details.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Details.swift; sourceTree = "<group>"; };
+		0578F30325E1029300125C1E /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		0597582925E79E8D008CFA03 /* CompView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompView.swift; sourceTree = "<group>"; };
+		05A0612A25DE592900336407 /* SquareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareView.swift; sourceTree = "<group>"; };
+		05A0613B25DE5A4400336407 /* CalculateSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateSquare.swift; sourceTree = "<group>"; };
+		05A0614025DE5B4900336407 /* RectangleOfSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleOfSquare.swift; sourceTree = "<group>"; };
+		05A6665625EE7D1F00162141 /* CompChooseSignView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompChooseSignView.swift; sourceTree = "<group>"; };
+		05B4B7D625F27DD000D259BF /* LinkToSiteWithText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkToSiteWithText.swift; sourceTree = "<group>"; };
 		05C1AA7625DC536300F8DDAE /* Horoscope.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Horoscope.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05C1AA7925DC536300F8DDAE /* HoroscopeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoroscopeApp.swift; sourceTree = "<group>"; };
 		05C1AA7B25DC536300F8DDAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +131,10 @@
 		05C1AA9225DC536400F8DDAE /* HoroscopeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HoroscopeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		05C1AA9625DC536400F8DDAE /* HoroscopeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoroscopeUITests.swift; sourceTree = "<group>"; };
 		05C1AA9825DC536400F8DDAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05C1AAAA25DC53AD00F8DDAE /* HoroscopeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoroscopeView.swift; sourceTree = "<group>"; };
+		05C1AAB225DC580000F8DDAE /* HeaderHoroscope.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderHoroscope.swift; sourceTree = "<group>"; };
+		05CEA9E825F94AB100F90DA3 /* Comp.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Comp.json; sourceTree = "<group>"; };
+		05FC9DC725FA74C70033E6E0 /* character.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = character.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +162,128 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		05158B7E25DD19D60063694A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				05A0613725DE59F800336407 /* FucntionsForFinding */,
+				0578F30325E1029300125C1E /* UserModel.swift */,
+				054AAF4125E7CDBE00B1883D /* SquareModels.swift */,
+				0558A48125F79C10000345A9 /* HoroscopeUser.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		05158BA625DD3D710063694A /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				05158BAA25DD3D880063694A /* Jost-Black.ttf */,
+				05158BAC25DD3D880063694A /* Jost-BlackItalic.ttf */,
+				05158BA925DD3D880063694A /* Jost-Bold.ttf */,
+				05158BB025DD3D880063694A /* Jost-BoldItalic.ttf */,
+				05158BB625DD3D890063694A /* Jost-ExtraBold.ttf */,
+				05158BA725DD3D880063694A /* Jost-ExtraBoldItalic.ttf */,
+				05158BB425DD3D890063694A /* Jost-ExtraLight.ttf */,
+				05158BB125DD3D880063694A /* Jost-ExtraLightItalic.ttf */,
+				05158BB225DD3D880063694A /* Jost-Italic.ttf */,
+				05158BAB25DD3D880063694A /* Jost-Light.ttf */,
+				05158BAF25DD3D880063694A /* Jost-LightItalic.ttf */,
+				05158BB825DD3D890063694A /* Jost-Medium.ttf */,
+				05158BA825DD3D880063694A /* Jost-MediumItalic.ttf */,
+				05158BAD25DD3D880063694A /* Jost-Regular.ttf */,
+				05158BB525DD3D890063694A /* Jost-SemiBold.ttf */,
+				05158BAE25DD3D880063694A /* Jost-SemiBoldItalic.ttf */,
+				05158BB325DD3D880063694A /* Jost-Thin.ttf */,
+				05158BB725DD3D890063694A /* Jost-ThinItalic.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		0564668625EBCCF600361A3D /* HeaderComp */ = {
+			isa = PBXGroup;
+			children = (
+				0564668725EBCD0F00361A3D /* HeaderComp.swift */,
+				0564668C25EBCD1B00361A3D /* CircleComp.swift */,
+			);
+			path = HeaderComp;
+			sourceTree = "<group>";
+		};
+		0564669125EBD2A800361A3D /* NavigationGridLinks */ = {
+			isa = PBXGroup;
+			children = (
+				0564669225EBD2D000361A3D /* RectangleWithImage.swift */,
+			);
+			path = NavigationGridLinks;
+			sourceTree = "<group>";
+		};
+		056DCB0025E45095008F1397 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				056DCB0A25E45110008F1397 /* Auth.swift */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		056DCB0125E450AC008F1397 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				056DCB0225E450C4008F1397 /* Main.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		0578F2F225DF976F00125C1E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				05FC9DC725FA74C70033E6E0 /* character.json */,
+				05CEA9E825F94AB100F90DA3 /* Comp.json */,
+				0558A47C25F79BF1000345A9 /* charachter.json */,
+				054AAF3C25E7CCFA00B1883D /* pyth_square.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		0597582825E79E77008CFA03 /* Comp */ = {
+			isa = PBXGroup;
+			children = (
+				05A6665525EE7CFB00162141 /* CompChooseSignView */,
+				0564669125EBD2A800361A3D /* NavigationGridLinks */,
+				0564668625EBCCF600361A3D /* HeaderComp */,
+				0597582925E79E8D008CFA03 /* CompView.swift */,
+			);
+			path = Comp;
+			sourceTree = "<group>";
+		};
+		05A0612925DE591600336407 /* SquareViews */ = {
+			isa = PBXGroup;
+			children = (
+				05A0612A25DE592900336407 /* SquareView.swift */,
+				05A0614025DE5B4900336407 /* RectangleOfSquare.swift */,
+				05B4B7D625F27DD000D259BF /* LinkToSiteWithText.swift */,
+				0507CF8C25F8D57600481DE7 /* LineToRegtangle.swift */,
+			);
+			path = SquareViews;
+			sourceTree = "<group>";
+		};
+		05A0613725DE59F800336407 /* FucntionsForFinding */ = {
+			isa = PBXGroup;
+			children = (
+				05158B7F25DD19F10063694A /* FindMonth.swift */,
+				05158BCE25DD412D0063694A /* FindSign.swift */,
+				05A0613B25DE5A4400336407 /* CalculateSquare.swift */,
+				0578F2F825DFA95100125C1E /* Details.swift */,
+			);
+			path = FucntionsForFinding;
+			sourceTree = "<group>";
+		};
+		05A6665525EE7CFB00162141 /* CompChooseSignView */ = {
+			isa = PBXGroup;
+			children = (
+				05A6665625EE7D1F00162141 /* CompChooseSignView.swift */,
+				05240DD725EFD8CD00AEAE74 /* ScrollableHStack.swift */,
+			);
+			path = CompChooseSignView;
+			sourceTree = "<group>";
+		};
 		05C1AA6D25DC536300F8DDAE = {
 			isa = PBXGroup;
 			children = (
@@ -95,8 +307,12 @@
 		05C1AA7825DC536300F8DDAE /* Horoscope */ = {
 			isa = PBXGroup;
 			children = (
+				05158B7E25DD19D60063694A /* Models */,
+				05C1AAA725DC537800F8DDAE /* Views */,
 				05C1AA7925DC536300F8DDAE /* HoroscopeApp.swift */,
 				05C1AA7B25DC536300F8DDAE /* ContentView.swift */,
+				0578F2F225DF976F00125C1E /* Resources */,
+				05158BA625DD3D710063694A /* Fonts */,
 				05C1AA7D25DC536400F8DDAE /* Assets.xcassets */,
 				05C1AA8225DC536400F8DDAE /* Info.plist */,
 				05C1AA7F25DC536400F8DDAE /* Preview Content */,
@@ -128,6 +344,29 @@
 				05C1AA9825DC536400F8DDAE /* Info.plist */,
 			);
 			path = HoroscopeUITests;
+			sourceTree = "<group>";
+		};
+		05C1AAA725DC537800F8DDAE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0597582825E79E77008CFA03 /* Comp */,
+				056DCB0125E450AC008F1397 /* Main */,
+				056DCB0025E45095008F1397 /* Auth */,
+				05A0612925DE591600336407 /* SquareViews */,
+				05C1AAA925DC538F00F8DDAE /* HoroscopeViews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		05C1AAA925DC538F00F8DDAE /* HoroscopeViews */ = {
+			isa = PBXGroup;
+			children = (
+				05C1AAAA25DC53AD00F8DDAE /* HoroscopeView.swift */,
+				05C1AAB225DC580000F8DDAE /* HeaderHoroscope.swift */,
+				054E22E925DE919000713507 /* DateHeader.swift */,
+				0578F2ED25DF95F200125C1E /* ProfileVIew.swift */,
+			);
+			path = HoroscopeViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,8 +472,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05158BC325DD3D890063694A /* Jost-ExtraLightItalic.ttf in Resources */,
+				05158BBE25DD3D890063694A /* Jost-BlackItalic.ttf in Resources */,
+				0558A47D25F79BF1000345A9 /* charachter.json in Resources */,
+				05158BC825DD3D890063694A /* Jost-ExtraBold.ttf in Resources */,
+				05CEA9E925F94AB100F90DA3 /* Comp.json in Resources */,
+				05158BB925DD3D890063694A /* Jost-ExtraBoldItalic.ttf in Resources */,
+				054AAF3D25E7CCFA00B1883D /* pyth_square.json in Resources */,
+				05158BC525DD3D890063694A /* Jost-Thin.ttf in Resources */,
+				05158BBA25DD3D890063694A /* Jost-MediumItalic.ttf in Resources */,
+				05158BC225DD3D890063694A /* Jost-BoldItalic.ttf in Resources */,
+				05158BBB25DD3D890063694A /* Jost-Bold.ttf in Resources */,
+				05FC9DC825FA74C70033E6E0 /* character.json in Resources */,
 				05C1AA8125DC536400F8DDAE /* Preview Assets.xcassets in Resources */,
+				05158BC625DD3D890063694A /* Jost-ExtraLight.ttf in Resources */,
+				05158BC025DD3D890063694A /* Jost-SemiBoldItalic.ttf in Resources */,
+				05158BC725DD3D890063694A /* Jost-SemiBold.ttf in Resources */,
+				05158BBF25DD3D890063694A /* Jost-Regular.ttf in Resources */,
+				05158BCA25DD3D890063694A /* Jost-Medium.ttf in Resources */,
+				05158BBC25DD3D890063694A /* Jost-Black.ttf in Resources */,
+				05158BC925DD3D890063694A /* Jost-ThinItalic.ttf in Resources */,
 				05C1AA7E25DC536400F8DDAE /* Assets.xcassets in Resources */,
+				05158BBD25DD3D890063694A /* Jost-Light.ttf in Resources */,
+				05158BC425DD3D890063694A /* Jost-Italic.ttf in Resources */,
+				05158BC125DD3D890063694A /* Jost-LightItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +520,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0564669325EBD2D000361A3D /* RectangleWithImage.swift in Sources */,
+				0564668D25EBCD1B00361A3D /* CircleComp.swift in Sources */,
+				056DCB0325E450C4008F1397 /* Main.swift in Sources */,
+				0578F2EE25DF95F200125C1E /* ProfileVIew.swift in Sources */,
+				05A0614125DE5B4900336407 /* RectangleOfSquare.swift in Sources */,
+				05A6665725EE7D1F00162141 /* CompChooseSignView.swift in Sources */,
+				05240DD825EFD8CD00AEAE74 /* ScrollableHStack.swift in Sources */,
 				05C1AA7C25DC536300F8DDAE /* ContentView.swift in Sources */,
+				05C1AAAB25DC53AD00F8DDAE /* HoroscopeView.swift in Sources */,
+				054AAF4225E7CDBE00B1883D /* SquareModels.swift in Sources */,
+				054E22EA25DE919000713507 /* DateHeader.swift in Sources */,
 				05C1AA7A25DC536300F8DDAE /* HoroscopeApp.swift in Sources */,
+				0507CF8D25F8D57600481DE7 /* LineToRegtangle.swift in Sources */,
+				056DCB0B25E45110008F1397 /* Auth.swift in Sources */,
+				05C1AAB325DC580000F8DDAE /* HeaderHoroscope.swift in Sources */,
+				0597582A25E79E8D008CFA03 /* CompView.swift in Sources */,
+				0558A48225F79C10000345A9 /* HoroscopeUser.swift in Sources */,
+				0564668825EBCD0F00361A3D /* HeaderComp.swift in Sources */,
+				05A0612B25DE592900336407 /* SquareView.swift in Sources */,
+				05B4B7D725F27DD000D259BF /* LinkToSiteWithText.swift in Sources */,
+				0578F30425E1029300125C1E /* UserModel.swift in Sources */,
+				05A0613C25DE5A4400336407 /* CalculateSquare.swift in Sources */,
+				0578F2F925DFA95100125C1E /* Details.swift in Sources */,
+				05158B8025DD19F10063694A /* FindMonth.swift in Sources */,
+				05158BCF25DD412D0063694A /* FindSign.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,18 +701,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Horoscope/Preview Content\"";
 				DEVELOPMENT_TEAM = 35TH4M5TLF;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Horoscope/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = nikita.frolov.devios.Horoscope;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nikita.frolov.devios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -439,18 +726,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Horoscope/Preview Content\"";
 				DEVELOPMENT_TEAM = 35TH4M5TLF;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Horoscope/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = nikita.frolov.devios.Horoscope;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nikita.frolov.devios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

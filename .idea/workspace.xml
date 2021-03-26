@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa7a21e8-040d-44d9-b238-8dd77a18c732" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/Love.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/YelowBut.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/aquarius.imageset/002-aquarius.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/aquarius.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/aries.imageset/012-aries.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/aries.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/cancer.imageset/009-cancer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/cancer.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/capricorn.imageset/003-capricorn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/capricorn.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/gemini.imageset/010-gemini.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/gemini.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/leo.imageset/008-leo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/leo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/libra.imageset/006-libra.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/libra.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/pisces.imageset/001-pisces.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/pisces.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/sagittarius.imageset/004-sagittarius.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/sagittarius.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/scorpio.imageset/005-scorpio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/scorpio.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/taurus.imageset/011-taurus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/taurus.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/virgo.imageset/007-virgo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Assets.xcassets/virgo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Fonts/Jost-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Models/FucntionsForFinding/CalculateSquare.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Models/FucntionsForFinding/Details.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Models/FucntionsForFinding/FindMonth.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Models/FucntionsForFinding/FindSign.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Models/SquareModels.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Models/UserModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Resources/pyth_square.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Auth/Auth.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Comp/CompChooseSignView/CompChooseSignView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Comp/CompChooseSignView/ScrollableHStack.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Comp/CompView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Comp/HeaderComp/CircleComp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Comp/HeaderComp/HeaderComp.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Comp/NavigationGridLinks/RectangleWithImage.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/HoroscopeViews/DateHeader.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/HoroscopeViews/HeaderHoroscope.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/HoroscopeViews/HoroscopeView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/HoroscopeViews/ProfileVIew.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/Main/Main.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/SquareViews/RectangleOfSquare.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Horoscope/Views/SquareViews/SquareView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Horoscope.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Horoscope.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Horoscope.xcodeproj/xcuserdata/nikitafrolov.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Horoscope.xcodeproj/xcuserdata/nikitafrolov.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Horoscope/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Horoscope/ContentView.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Horoscope/HoroscopeApp.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Horoscope/HoroscopeApp.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Horoscope/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Horoscope/Info.plist" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_26D8A2CE-214B-4F33-A1C0-469C1BF342D7" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pLCUR4lpzprpwLXaqZu4af9O63" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Horoscope" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Horoscope" TARGET_NAME="Horoscope" CONFIG_NAME="Debug" SCHEME_NAME="Horoscope" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="Horoscope" RUN_TARGET_NAME="Horoscope" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa7a21e8-040d-44d9-b238-8dd77a18c732" name="Default Changelist" comment="" />
+      <created>1614953001413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614953001413</updated>
+      <workItem from="1614953002952" duration="59000" />
+    </task>
+    <servers />
+  </component>
+</project>
